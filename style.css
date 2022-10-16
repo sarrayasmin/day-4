@@ -1,0 +1,28 @@
+ 
+        h3{
+           color:white;
+           }
+    Div.cmt{
+           font-size:20px;
+           font-style:italic;  
+           background:pink!important;
+           color:red!important;
+           border:2px solid black;
+           border-right:4px solid red;
+           }
+       Div.arc{
+           font-size:20px;
+           font-style:italic;  
+           background:green!important;
+      
+           border:2px solid black;
+           border-right:4px solid black;
+           }
+#fff{ 
+     width:400px;
+     height:500px;
+    }
+    ;arc{
+         color:blue!important; 
+         }
+   
